@@ -2,14 +2,9 @@
    Program: Temperature Conversion and Weather Advisory
    Description: Converts temperatures between Celsius, Fahrenheit, and Kelvin,
                 categorizes the temperature, and provides a weather advisory.
-   Inputs:
-       - Temperature value (float)
-       - Original scale (C, F, or K)
-       - Target scale (C, F, or K)
-   Output:
-       - Converted temperature
-       - Temperature category (Freezing, Cold, Comfortable, Hot, Extreme Heat)
-       - Weather advisory
+   Inputs: Temperature, Original Scale, and Target Scale
+   Output: Converted temperature, Temperature categegory, and the Weather advisory
+
    ========================================================================= */
 
 #include <stdio.h>

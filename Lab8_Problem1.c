@@ -1,12 +1,10 @@
 /* =========================================================================
-   Program: NFL Score Possibilities
-   Description: Determines all possible combinations of scoring plays
-                (TD, TD+1, TD+2, FG, Safety) that sum up to a given score.
+   Description: Determines all possible ways a team could have scored their points
+            
    Inputs:
-       n - an integer representing the team's score (entered by user)
+       n = the team's score
    Output:
-       Prints all possible combinations of scoring plays that can result
-       in that score. Repeats until user enters 1 to stop.
+       Prints all possible outputs on how the team could have scored their points
    ========================================================================= */
 
 #include <stdio.h>
